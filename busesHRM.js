@@ -64,7 +64,7 @@
                         iconSize: [20, 20],
                     });
                     
-                    // this function now will return the L.marker method that includes the BUS icon, and the direction the BUS is headed (bearing)
+                    // this function now will return the L.marker method that includes the bus icon, and the direction the bus is headed (bearing)
                     return L.marker(latlng, {icon: busIcon, rotationAngle: feature.properties.bearing})
                     .bindPopup(
                         // Now we can add the properties we want to display in the HTML

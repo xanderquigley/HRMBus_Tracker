@@ -6,7 +6,7 @@ The program refreshes every 15 seconds and shows the new position of each bus. <
 </br>
 <h3>Pain Points</h3>
 <p> The biggest pain point in this project was understanding the JSON. It took some time to understand each attribute and how it pertained to the transit system.</br>
-Another large pain point was figuring out how to clear the map layer of previous flight markers (plane icons) before a new icon was displayed.</br>
+Another large pain point was figuring out how to clear the map layer of previous metro transit markers (bus icons) before a new icon was displayed.</br>
 To complete this, I watched a few tutorials on youtube with notes on geoJSON and the Leaflet mapping system. </p></br>
 <h3>Outcomes Learned</h3>
 <p>I found this project to be extremely useful. </br>It utilized: </br>
